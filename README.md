@@ -21,6 +21,16 @@ Then open http://localhost:7070. Data is saved in `data/gearlog.txt` and survive
 
 ## Endpoints
 | Method | Path | Purpose |
+
+## Team
+
+| No. | Full Name | Student Number | Part built |
+|-----|-----------|----------------|------------|
+| 1 | David Mwape | 2410681 | Equipment, SoundEquipment, Furniture, Tent |
+| 2 |Katongo Mulenga  | 2300016 | Borrower, Loan |
+| 3 |Howard Phiri  |2410167  | LendingService, ItemAlreadyLentException |
+| 4 |KAZEMBE JAMES  |  2410097 | App, LendingRequest |
+| 5 | Faith Samukonga  | 2410278 | Front end, README |
 |---|---|---|
 | GET | /api/equipment | List equipment |
 | POST | /api/equipment | Register an item |
