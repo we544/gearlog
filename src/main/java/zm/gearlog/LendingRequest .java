@@ -1,12 +1,4 @@
-I see - you are in that folder, button is hidden. Use this trick - *type URL directly:*
 
-On your laptop, click address bar and go to this link:
-https://github.com/we544/gearlog/new/main/src/main/java/zm/gearlog
-That will open *Create new file* page directly inside `App.java` folder.
-
-Then:
-1. Top where it says `Name your file...` type: `LendingRequest.java`
-2. In big box, paste this code:
 package zm.gearlog;
 
 public class LendingRequest {
